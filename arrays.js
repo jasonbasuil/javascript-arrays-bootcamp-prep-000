@@ -6,9 +6,9 @@ function addElementToBeginningOfArray (array1, element1) {
 }
 
 function destructivelyAddElementToBeginningOfArray (array2, element2) {
-  //var arrayListB = array2
-  //arrayListB.unshift(element2)
-  return array2.unshift(element2)
+  var arrayListB = array2
+  arrayListB.unshift(element2)
+  return arrayListB
 }
 
 function addElementToEndOfArray(array3, element3){
