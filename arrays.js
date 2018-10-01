@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> c9b378ff694de9ee71eceb0e66beefb6e46e20cc
 var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles']
 
 function addElementToBeginningOfArray (array1, element1) {
